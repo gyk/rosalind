@@ -1,0 +1,4 @@
+[package]
+name = "rna"
+version = "0.1.0"
+authors = ["Yukun Guo <gyk.net@gmail.com>"]
