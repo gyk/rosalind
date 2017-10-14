@@ -1,0 +1,4 @@
+[package]
+name = "gc"
+version = "0.1.0"
+authors = ["Yukun Guo <gyk.net@gmail.com>"]
